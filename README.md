@@ -12,7 +12,7 @@ Some of the benefits of Cypress are:
 - It's easy to implement, maintain and run
 - Can be added to the CI/CD pipeline
 - Offers the ability to parallelize and run group tests
-- Allows us to design UI and API tests.
+- Allows us to design *UI and API tests*.
 
 ### Next improvements
 1. With the new GPDR, the wrong credentials message should not identify wich credential field has invalid data (username or password).
