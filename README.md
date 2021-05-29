@@ -12,12 +12,18 @@ Some of the benefits of Cypress are:
 - It's easy to implement, maintain and run
 - Can be added to the CI/CD pipeline
 - Offers the ability to parallelize and run group tests
-- Allows us to design *UI and API tests*.
+- Allows us to design UI and API tests.
 
 ### Next improvements
+
+**UI test (Herokuapp)
 1. With the new GPDR, the wrong credentials message should not identify wich credential field has invalid data (username or password).
 2. After login, it should be nice to have the account information to identify who is logged in the application (e.g. Welcome message with the user name).
 3. It would be nice to have a feature to recover/remember password.
+
+** API test (Reqres)
+1. Login endpoint accepts any password and returns status 200. It has no validation despite of empty password.
+2. Reqres does not shows the Token for all the users, but changes the last character of the token accordingly to the ID. It would be nice to improve the documentation.
 
 
 ## Getting started
