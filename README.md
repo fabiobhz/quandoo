@@ -1,4 +1,4 @@
-# quuandoo
+# quandoo
 Quandoo challenge 2021
 
 ## Getting started
