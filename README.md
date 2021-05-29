@@ -3,11 +3,11 @@ Quandoo challenge 2021
 
 ## Getting started
 
-#Installing Node.js
+##Installing Node.js
 You should have Node.js installed on your system. 
 To install Node.js, click [on this link](https://nodejs.org/en/download/).
 
-#Installing Cypress
+##Installing Cypress
 1. Run `run npm install cypress`
 
 ## Running tests
