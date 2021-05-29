@@ -1,9 +1,9 @@
 # Quandoo challenge 2021 - Fabio Gomes
 
-This challenge consists in two parts:
-UI task: design a test suite for login functionality on http://the-internet.herokuapp.com/login (existing user credentials are displayed on the page);
-API task: go to https://reqres.in. Get user credentials from GET single user endpoint.
-Using the credentials implement an E2E scenario for registration and login. Verify that every endpoint returns the correct token.
+This challenge consists in two parts:  
+UI task: design a test suite for login functionality on http://the-internet.herokuapp.com/login (existing user credentials are displayed on the page);  
+API task: go to https://reqres.in. Get user credentials from GET single user endpoint.  
+Using the credentials implement an E2E scenario for registration and login. Verify that every endpoint returns the correct token.  
 
 ### Framework
 For this challenge I am using Cypress, a Javascript based framework with a large community.
@@ -23,7 +23,7 @@ Some of the benefits of Cypress are:
 ## Getting started
 
 ### Installing Node.js
-You should have Node.js installed on your system.
+You should have Node.js installed on your system.  
 To install Node.js, click [on this link](https://nodejs.org/en/download/).
 
 ### Installing Cypress
